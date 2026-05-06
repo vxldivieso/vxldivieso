@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Hola, soy Antonia ✨<br><br>🖥️ Soy Desarrolladora Web.<br> 📚 Full stack jr Angular + NodeJS + AWS + DynamoDB <br> 💪🏻 Mayor fortaleza en Frontend con Angular + TailwindCSS.<br> 🧑🏼‍🎨 UI/UX con Figma.<br>👩🏻‍💻 Ingeniera Informática de profesión.<br>🚀 Hoy fortaleciendo MEAN stack. <br> 🫰🏻 Monté un mini portafolio aquí en [Github](https://vxldivieso.github.io/avr/)
+### Hola, soy Antonia ✨<br><br>🖥️ Soy Desarrolladora Web.<br> 📚 Full stack jr Angular + NodeJS + AWS + DynamoDB <br> 💪🏻 Mayor fortaleza en Frontend con Angular + TailwindCSS.<br> 🧑🏼‍🎨 UI/UX con Figma.<br>👩🏻‍💻 Ingeniera Informática de profesión.🫰🏻 Monté un mini portafolio aquí en [Github](https://vxldivieso.github.io/Portafolio-web)
 
 
 
